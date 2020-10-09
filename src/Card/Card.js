@@ -13,7 +13,7 @@ const Card = ({name, title, image, github}) => {
                 <h2>{name}</h2>
                 <h4>{title}</h4>
             </div>
-            <a href={github}>
+            <a href={github} target="_blank" rel="noopener noreferrer">
                 <div className="card--github"></div>
             </a>
 
