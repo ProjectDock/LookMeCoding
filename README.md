@@ -7,7 +7,7 @@ We are celebrating Hacktoberfest 2020 with the project where everyone can share 
 - Photo of disturbing subject, politics, nudity, illegal activity or other not related content will be rejected
 
 ## App
-It is a basic React application that listing information from a js file. Do not worry if you are not familiar with React, your only need to modify an array of objects which detailed below.
+It is a basic React application that listing information from a js file. Do not worry if you are not familiar with React, you only need to modify an array of objects which detailed below.
 
 ## How to contribute
 
@@ -52,4 +52,4 @@ It is a basic React application that listing information from a js file. Do not 
 
 > Congratulations! You are now one step closer to getting the Hacktoberfest 2020 swags. You can check your progress at <https://hacktoberfest.digitalocean.com/profile> .
 
-#####By contributing you understand that your screenshot will be publicly available
+####By contributing you understand that your screenshot will be publicly available
