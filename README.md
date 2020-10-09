@@ -18,7 +18,7 @@ It is a basic React application that listing information from a js file. Do not 
 3. Set remote stream with the original repo to keep always updated
 
    - `git remote add upstream https://github.com/ProjectDock/LookMeCoding.git`
-   - `git pull upstream master`
+   - `git pull upstream main`
 
 4. Create a branch with your Github username
 
