@@ -18,7 +18,7 @@ const cards = [
     {
         name: "Saurabh kamble",
         title: "Full Stack Developer",
-        image: "saurabh2836/game of throne theme.png",
+        image: "saurabh2836/game_of_throne_theme.png",
         github: "https://github.com/saurabh2836"
     },
 
