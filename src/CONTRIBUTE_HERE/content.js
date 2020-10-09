@@ -15,6 +15,12 @@ const cards = [
         image: "TamasKn/TamasKn.png",
         github: "https://github.com/TamasKn"
     },
+    {
+        name: "Saurabh kamble",
+        title: "Full Stack Developer",
+        image: "saurabh2836/game of throne theme.png",
+        github: "https://github.com/saurabh2836"
+    },
 
 /** ======== Place your infos above ======== **/
 
