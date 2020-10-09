@@ -52,4 +52,4 @@ It is a basic React application that listing information from a js file. Do not 
 
 > Congratulations! You are now one step closer to getting the Hacktoberfest 2020 swags. You can check your progress at <https://hacktoberfest.digitalocean.com/profile> .
 
-####By contributing you understand that your screenshot will be publicly available
+######By contributing you understand that your screenshot will be publicly available
