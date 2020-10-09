@@ -1,0 +1,38 @@
+.site__header {
+    background-image: url("./assets/images/banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    position: relative;
+}
+
+.site__header--title {
+    text-align: center;
+    font-size: 10vw;
+    color: #efefef;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -2.4vw;
+    margin: 0 auto;
+}
+
+.site__header span {
+    color: #7c7c7c;
+    font-size: 10px;
+    position: absolute;
+    right: 15px;
+}
+
+.site__header a {
+    text-decoration: underline;
+    color: #7c7c7c;
+}
+
+.site__content {
+    padding: 4rem 8rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}

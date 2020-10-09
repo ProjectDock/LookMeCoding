@@ -1,0 +1,95 @@
+
+.card--container {
+    height: 30em;
+    width: 55em;
+    display:-webkit-box;
+    display:-ms-flexbox;
+    display:flex;
+    -webkit-box-orient:vertical;
+    -webkit-box-direction:normal;
+    -ms-flex-direction:column;
+    flex-direction:column;
+    position:relative;
+    -webkit-transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+    -o-transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition:all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+    border-radius:16px;
+    overflow:hidden;
+    -webkit-box-shadow:  15px 15px 27px #e1e1e3, -15px -15px 27px #ffffff;
+    box-shadow:  15px 15px 27px #e1e1e3, -15px -15px 27px #ffffff;
+    margin: 2rem 2rem;
+}
+
+.card--image {
+    height: 22em;
+    width: 55em;
+    padding: 1em 2em;
+    position: absolute;
+    top: 0px;
+    -webkit-transition: all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+    -o-transition: all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 100%;
+}
+
+.card--description {
+    background-color: #FAFAFC;
+    height: 10em;
+    width: 55em;
+    position: absolute;
+    bottom: 0em;
+    -webkit-transition: all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+    -o-transition: all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+    padding: 0.5em 1em;
+    text-align: center;
+}
+
+.card--description h2 {
+    font-size: 2rem;
+}
+
+.card--description h4 {
+    font-weight: 200;
+    font-size: 1.7rem;
+    margin-top: .5rem;
+}
+
+.card--github
+{
+    width:3em;
+    height:3em;
+    background-image: url("../assets/images/GitHub.png");
+    background-size: cover;
+    position: absolute;
+    bottom: 1em;
+    left: 1em;
+    -webkit-transition: all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+    -o-transition: all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+.card--container:hover .card--description {
+    height: 0em;
+    padding: 0px 1em;
+}
+.card--container:hover .card--image {
+    height: 35em;
+}
+
+.card--container:hover {
+    background-color: white;
+}
+
+.card--container:hover .card--github:hover {
+    cursor: pointer;
+    background-image: url("../assets/images/GitHub-light.png");
+}
+
+@media only screen and (max-width: 800px) {
+    .card--container, .card--description, .card--image {
+        width: 30em;
+    }
+}
