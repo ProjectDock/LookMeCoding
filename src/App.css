@@ -36,3 +36,15 @@
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
+
+footer {
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    padding: 16px;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: flex-end;
+}
