@@ -1,6 +1,8 @@
 const cards = [
   /** ======== Add your info below -- Do not modify anything outside this box ======== **/
 
+  /** ======== Add your info below -- Do not modify anything outside this box ======== **/
+
   {
     name: 'Project Dock',
     title: 'JS Developer',
@@ -19,12 +21,21 @@ const cards = [
     image: 'saurabh2836/game_of_throne_theme.png',
     github: 'https://github.com/saurabh2836',
   },
+
+  {
+    name: 'Agnes Brettl',
+    title: 'Front-End Developer',
+    image: 'AgnesBrettl/AgnesBrettl.png',
+    github: 'https://github.com/brettl1991',
+  },
   {
     name: 'Istvan Acs',
     title: 'Software Engineer',
     image: 'IstvanAcs/IstvanAcs.jpg',
     github: 'https://github.com/St3ve89',
   },
+
+  /** ======== Place your infos above ======== **/
 
   /** ======== Place your infos above ======== **/
 ];
