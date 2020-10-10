@@ -21,6 +21,13 @@ const cards = [
         image: "saurabh2836/game_of_throne_theme.png",
         github: "https://github.com/saurabh2836"
     },
+    
+    {
+        name: "Agnes Brettl",
+        title: "Front-End Developer",
+        image: "AgnesBrettl/AgnesBrettl.png",
+        github: "https://github.com/brettl1991"
+    },
 
 /** ======== Place your infos above ======== **/
 
