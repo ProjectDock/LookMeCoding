@@ -32,6 +32,14 @@ const App = () => {
 
             </section>
 
+            <footer>
+                <div className="footer-content">
+                    <p>
+                        Copyright © {new Date().getFullYear()} ProjectDock. All Rights Reserved.
+                    </p>
+                </div>
+            </footer>
+
         </div>
     );
 }
