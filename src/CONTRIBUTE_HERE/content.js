@@ -37,7 +37,7 @@ const cards = [
   {
     name: 'Evgeny Pletnev',
     title: 'Web Developer',
-    image: 'epletnev/image.png,
+    image: 'epletnev/image.png',
     github: 'https://github.com/epletnev',
   },
 
