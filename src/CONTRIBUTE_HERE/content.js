@@ -40,6 +40,12 @@ const cards = [
     image: 'epletnev/image.png',
     github: 'https://github.com/epletnev',
   },
+  {
+    name: 'Aniket Pathak',
+    title: 'Software Engineer',
+    image: 'mynameispathak/code.png',
+    github: 'https://github.com/mynameispathak',
+  }
 
   /** ======== Place your infos above ======== **/
 
