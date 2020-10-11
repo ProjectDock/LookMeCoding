@@ -40,6 +40,12 @@ const cards = [
     image: 'epletnev/image.png',
     github: 'https://github.com/epletnev',
   },
+  {
+    name: 'pixelatedjelly',
+    title: 'Engineer',
+    image: 'pixelatedjelly/beam_deflection_calc.png',
+    github: 'https://github.com/pixelatedjelly',
+  },
 
   /** ======== Place your infos above ======== **/
 
