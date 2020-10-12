@@ -1,6 +1,5 @@
 const cards = [
-  /** ======== Add your info below -- Do not modify anything outside this box ======== **/
-
+  
   /** ======== Add your info below -- Do not modify anything outside this box ======== **/
 
   {
@@ -41,13 +40,17 @@ const cards = [
     github: 'https://github.com/epletnev',
   },
   {
+    name: 'Rohit Kadam',
+    title: 'Web Developer',
+    image: 'rohitk/lookatmecode.png',
+    github: 'https://github.com/rohitkadamrb',
+  },
+  {
     name: 'pixelatedjelly',
     title: 'Engineer',
     image: 'pixelatedjelly/beam_deflection_calc.png',
     github: 'https://github.com/pixelatedjelly',
   },
-
-  /** ======== Place your infos above ======== **/
 
   /** ======== Place your infos above ======== **/
 ];
