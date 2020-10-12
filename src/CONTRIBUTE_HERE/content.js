@@ -57,6 +57,12 @@ const cards = [
     image: 'pixelatedjelly/beam_deflection_calc.png',
     github: 'https://github.com/pixelatedjelly',
   },
+  {
+    name: 'Kaunik Kamila',
+    title: 'Software Developer Engineer',
+    image: 'kaunik07/kaunik07.png',
+    github: 'https://github.com/kaunik07',
+  },
 
   /** ======== Place your infos above ======== **/
 ];
