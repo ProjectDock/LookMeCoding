@@ -40,6 +40,12 @@ const cards = [
     github: 'https://github.com/epletnev',
   },
   {
+    name: 'Aniket Pathak',
+    title: 'Software Engineer',
+    image: 'mynameispathak/code.png',
+    github: 'https://github.com/mynameispathak',
+  },
+  {
     name: 'Rohit Kadam',
     title: 'Web Developer',
     image: 'rohitk/lookatmecode.png',
