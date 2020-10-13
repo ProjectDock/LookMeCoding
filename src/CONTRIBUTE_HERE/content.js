@@ -63,6 +63,12 @@ const cards = [
     image: 'kaunik07/kaunik07.png',
     github: 'https://github.com/kaunik07',
   },
+  {
+  	name: 'Rashid Makki',
+    title: 'Full Stack Developer',
+    image: 'rashidmakki/ss.png',
+    github: 'https://github.com/rashidmakki',
+  }
 
   /** ======== Place your infos above ======== **/
 ];
