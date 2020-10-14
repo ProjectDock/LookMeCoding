@@ -68,6 +68,12 @@ const cards = [
     title: 'Full Stack Developer',
     image: 'rashidmakki/ss.png',
     github: 'https://github.com/rashidmakki',
+  },
+  {
+  	name: 'cap10kirk',
+    title: 'Full Stack Developer',
+    image: 'cap10kirk/cap10kirk_codes.png',
+    github: 'https://github.com/Cap10Kirk',
   }
 
   /** ======== Place your infos above ======== **/
