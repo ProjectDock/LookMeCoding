@@ -9,6 +9,12 @@ const cards = [
     github: 'https://github.com/ProjectDock',
   },
   {
+    name: 'Look me cooding',
+    title: 'JS Developer',
+    image: 'jailsonv2/jailson.png',
+    github: 'https://github.com/jailsonv2',
+  },
+  {
     name: 'Tamas Kn',
     title: 'Full Stack Developer',
     image: 'TamasKn/TamasKn.png',
