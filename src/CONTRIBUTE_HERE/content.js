@@ -90,7 +90,7 @@ const cards = [
     {
         name: 'Karim Hussain',
         title: 'Solutions Design Lead',
-        image: 'ka-hn/ka-hn.png',
+        image: 'ka-hn/ka-hn.PNG',
         github: 'https://github.com/ka-hn',
     },
 
