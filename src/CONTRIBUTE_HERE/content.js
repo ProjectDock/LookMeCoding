@@ -86,7 +86,13 @@ const cards = [
         title: 'Software Developer',
         image: 'meghaldonde/meghaldonde.png',
         github: 'https://github.com/meghaldonde',
-    }
+    },
+    {
+        name: 'Karim Hussain',
+        title: 'Solutions Design Lead',
+        image: 'ka-hn/ka-hn.png',
+        github: 'https://github.com/ka-hn',
+    },
 
     /** ======== Place your infos above ======== **/
 ];
