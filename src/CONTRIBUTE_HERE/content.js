@@ -93,7 +93,12 @@ const cards = [
         image: 'ka-hn/ka-hn.PNG',
         github: 'https://github.com/ka-hn',
     },
-
+    {
+        name: 'Harshdeep Singh',
+        title: 'Full Stack Developer',
+        image: 'I-am-Harshdeep/Harsh.png',
+        github: 'https://github.com/I-am-Harshdeep',
+    },
     /** ======== Place your infos above ======== **/
 ];
 
