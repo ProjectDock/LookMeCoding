@@ -99,7 +99,14 @@ const cards = [
         image: 'I-am-Harshdeep/Harsh.png',
         github: 'https://github.com/I-am-Harshdeep',
     },
-    /** ======== Place your infos above ======== **/
+    {
+        name: "VrajKD",
+        title: "Front End Developer",
+        image: "VrajKD/VrajKD.png",
+        github: "https://github.com/VrajKD",
+    },
+  
+  /** ======== Place your infos above ======== **/
 ];
 
 export default cards;
