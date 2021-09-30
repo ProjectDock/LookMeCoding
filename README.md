@@ -1,4 +1,4 @@
-![alt text](src/assets/images/HF2020%20Events%201024x512%20Centered.png)
+![alt text](src/assets/images/hacktoberfest21_campaign-banner.webp)
 # LookMeCoding
 We are celebrating Hacktoberfest 2020 with the project where everyone can share a screenshot while coding.
 
