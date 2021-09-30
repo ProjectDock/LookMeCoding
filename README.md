@@ -1,6 +1,6 @@
 ![alt text](src/assets/images/hacktoberfest21_campaign-banner.webp)
 # LookMeCoding
-We are celebrating Hacktoberfest 2020 with the project where everyone can share a screenshot while coding.
+We are celebrating Hacktoberfest 2021 with the project where everyone can share a screenshot while coding.
 
 ## Rules
 - Only screenshot is allowed to upload which is taken by you
