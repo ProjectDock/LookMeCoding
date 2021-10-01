@@ -105,6 +105,12 @@ const cards = [
         image: "VrajKD/VrajKD.png",
         github: "https://github.com/VrajKD",
     },
+    {
+        name: "FarbrorGarbo",
+        title: "App Developer [...coding in GridConstructor]",
+        image: "FarbrorGarbo/FarbrorGarbo.png",
+        github: "https://github.com/FarbrorGarbo/GridConstructor"
+    }
   
   /** ======== Place your infos above ======== **/
 ];
