@@ -34,12 +34,6 @@ const cards = [
         github: 'https://github.com/brettl1991',
     },
     {
-        name: 'Istvan Acs',
-        title: 'Software Engineer',
-        image: 'IstvanAcs/IstvanAcs.jpg',
-        github: 'https://github.com/St3ve89',
-    },
-    {
         name: 'Evgeny Pletnev',
         title: 'Web Developer',
         image: 'epletnev/image.png',
@@ -116,6 +110,12 @@ const cards = [
         title: 'Full Stack Developer',
         image: 'TamasKn/coding.png',
         github: 'https://github.com/TamasKn',
+    },
+    {
+        name: 'Istvan Acs',
+        title: 'Software Engineer',
+        image: 'IstvanAcs/sitvanacs2.jpg',
+        github: 'https://github.com/St3ve89',
     },
   
   /** ======== Place your infos above ======== **/
