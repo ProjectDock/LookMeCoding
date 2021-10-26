@@ -29,7 +29,7 @@ const cards = [
   {
     name: "Agnes Brettl",
     title: "Front-End Developer",
-    image: "AgnesBrettl/code.png",
+    image: "AgnesBrettl/codeTwo.png",
     github: "https://github.com/brettl1991",
   },
   {
