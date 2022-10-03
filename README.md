@@ -1,6 +1,6 @@
-![alt text](src/assets/images/hacktoberfest21_campaign-banner.webp)
+![alt text](src/assets/images/hacktoberfest_logo.png)
 # LookMeCoding
-We are celebrating Hacktoberfest 2021 with the project where everyone can share a screenshot while coding.
+We are celebrating Hacktoberfest 2022 with the project where everyone can share a screenshot while coding.
 
 ## Rules
 - Only screenshot is allowed to upload which is taken by you
@@ -22,7 +22,7 @@ It is a basic React application that listing information from a js file. Do not 
 
 4. Create a branch with your Github username
 
-5. Run `npm install` in your local repo
+5. Run `yarn install` in your local repo
 
 6. Create a folder with your Github username in `src/CONTRIBUTE_HERE/screenshots/` directory
 
@@ -50,6 +50,6 @@ It is a basic React application that listing information from a js file. Do not 
 12. Create a pull request to the original repo
 
 
-> Congratulations! You are now one step closer to getting the Hacktoberfest 2020 swags. You can check your progress at <https://hacktoberfest.digitalocean.com/profile> .
+> Congratulations! You are now one step closer to getting the Hacktoberfest 2022 swags. You can check your progress at <https://hacktoberfest.com/profile> .
 
 ######By contributing you understand that your screenshot will be publicly available
