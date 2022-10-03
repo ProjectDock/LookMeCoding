@@ -122,6 +122,12 @@ const cards = [
     image: "IstvanAcs/istvanacs3.png",
     github: "https://github.com/St3ve89",
   },
+  {
+    name: "Tamas Knisz",
+    title: ".NET Developer",
+    image: "TamasKn/ide_screen.png",
+    github: "https://github.com/TamasKn",
+  },
 
   /** ======== Place your infos above ======== **/
 ];
