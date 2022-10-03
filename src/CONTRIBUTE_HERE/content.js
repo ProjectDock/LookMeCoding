@@ -113,13 +113,13 @@ const cards = [
   {
     name: "Istvan Acs",
     title: "Software Engineer",
-    image: "IstvanAcs/sitvanacs2.jpg",
+    image: "IstvanAcs/istvanacs2.jpg",
     github: "https://github.com/St3ve89",
   },
   {
     name: "Istvan Acs",
     title: "Software Engineer",
-    image: "IstvanAcs/sitvanacs3.jpg",
+    image: "IstvanAcs/istvanacs3.png",
     github: "https://github.com/St3ve89",
   },
 

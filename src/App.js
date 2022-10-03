@@ -21,8 +21,9 @@ const App = () => {
 
       <section className="site__content">
         {
-          content.map(item => (
+          content.map((item, idx) => (
             <Card
+              key={idx}
               name={item.name}
               title={item.title}
               image={require(`./CONTRIBUTE_HERE/screenshots/${item.image}`)}
